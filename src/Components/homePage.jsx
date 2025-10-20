@@ -73,7 +73,7 @@ export default function HomePage() {
         method: "POST",
         headers: {
           "content-type": "application/json",
-          "X-goog-api-key": "AIzaSyAFVziVC_tO41sXf0GRVPbszShgK0FQG3U",
+          "X-goog-api-key": "<API>",
         },
         body: JSON.stringify({
           contents: [
